@@ -38,8 +38,6 @@ This project implements a **Story Recommendation System** that uses **user inter
    ```
 
 ### **Links:**
-
-- **GitHub Repository**: [https://github.com/Hirenkhokhar/Story_recommendation_system](https://github.com/Hirenkhokhar/Story_recommendation_system)
 - **user_interaction.csv**: [user_interaction.csv](https://drive.google.com/file/d/1qareCMhMjVYJN8wExn8AZnn9RC8DnUIe/view?usp=drive_link)
 - **metadata.csv**: [metadata.csv](https://drive.google.com/file/d/1QSkq4mcKY5-f9Xyt_nQPGNSSR46kBX5_/view?usp=sharing)
 
